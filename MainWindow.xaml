@@ -9,5 +9,6 @@
         FontSize="20">
     <StackPanel>
         <Label HorizontalAlignment="Center">Vives Technology</Label>
+        <Label HorizontalAlignment="Center">Campus Kortrijk</Label>
     </StackPanel>
 </Window>
