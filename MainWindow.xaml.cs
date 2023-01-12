@@ -21,6 +21,9 @@ namespace WpfTest
     /// </summary>
     public partial class MainWindow : Window
     {
+        // Reserveer plaats voor een verwijzing naar een object van de klasse SerialPort
+        // en maak het object aan.
+        SerialPort serialPort = new SerialPort();
         public MainWindow()
         {
             // Mijn commentaar....
