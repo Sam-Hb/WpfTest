@@ -25,6 +25,8 @@ namespace WpfTest
         {
             // Mijn commentaar....
             InitializeComponent();
+
+            lblTekstje.Content = tekstje;
         }
     }
 }
