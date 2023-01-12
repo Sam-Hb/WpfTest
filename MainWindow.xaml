@@ -11,6 +11,6 @@
         <Label HorizontalAlignment="Center">Vives Technology</Label>
         <Label HorizontalAlignment="Center">Campus Kortrijk</Label>
         <Label HorizontalAlignment="Center">Huyghebaert Sam</Label>
-        <Label Name="lblTekstje"></Label>
+        <Label Name="lblTekstje" HorizontalAlignment="Center"></Label>
     </StackPanel>
 </Window>
