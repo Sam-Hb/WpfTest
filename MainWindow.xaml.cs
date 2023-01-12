@@ -20,6 +20,7 @@ namespace WpfTest
     /// </summary>
     public partial class MainWindow : Window
     {
+        string tekstje = "Hello, World!";
         public MainWindow()
         {
             // Mijn commentaar....
